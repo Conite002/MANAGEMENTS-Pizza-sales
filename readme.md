@@ -62,3 +62,4 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the rev
   <source src="pizza-management-sales-2024-09-04-08-32-47_AonavO5a.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[DEMO PAGE ](pizza-management-sales-2024-09-04-08-32-47_AonavO5a.mp4)
