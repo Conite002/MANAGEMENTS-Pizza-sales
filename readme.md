@@ -50,8 +50,11 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the rev
 
 # SCREENSHOTS
 
+**HOME**
 ![HOME](screenshots/home.png)
-![Pizza Category Sales Pie Chart](screenshots/best-worst-sellers.png)
+
+**BEST / WORST SELLERS**
+![BEST / WORST SELLERS](screenshots/best-worst-sellers.png)
 
 # DEMO
 [DASHBOARD PAGE](pizza-management-sales-2024-09-04-08-32-47_AonavO5a.mp4)
